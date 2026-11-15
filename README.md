@@ -26,8 +26,6 @@ Problems that BizGenius AI aims to solve:
 
 ## How is it used?
 
-How is it used?
-
 BizGenius AI is used by students, aspiring entrepreneurs, and small business owners who need assistance in developing business ideas and planning their businesses.
 
 Process of Using the Solution
