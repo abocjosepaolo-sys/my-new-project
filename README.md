@@ -44,6 +44,7 @@ Process of Using the Solution
 - When small business owners need new marketing strategies.
 - When entrepreneurs want to explore potential products, services, and business opportunities.
 - When users need quick assistance in organizing their business plans.
+
 Target Users:
 - College and Entrepreneurship students.
 - Aspiring entrepreneurs.
@@ -55,7 +56,7 @@ Target Users:
 - Accessible features for beginners.
 - Practical business suggestions based on available budgets and interests.
 - Privacy and protection of user information.
-This is how you create code examples:
+
 ```
 def main():
    countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
