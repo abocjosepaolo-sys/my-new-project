@@ -33,51 +33,28 @@ BizGenius AI is used by students, aspiring entrepreneurs, and small business own
 Process of Using the Solution
 
 - Access the Platform – Users open the BizGenius AI website using a computer or mobile device.
-
-Enter Business Preferences – Users provide their interests, available budget, skills, and preferred business industry.
-
-Generate Business Ideas – The AI suggests possible business concepts based on the information provided.
-
-Identify Target Markets – The system recommends potential customers for the selected business idea.
-
-Generate Marketing Strategies – Users receive suggestions for promoting their products or services.
-
-Create a Business Plan – The system generates a basic business plan to help users organize their business ideas.
-
-Situations Where the Solution Is Needed
-
-When students need business ideas for academic projects or business proposals.
-
-When aspiring entrepreneurs want to start a business but do not know where to begin.
-
-When small business owners need new marketing strategies.
-
-When entrepreneurs want to explore potential products, services, and business opportunities.
-
-When users need quick assistance in organizing their business plans.
-
-Target Users
-
-College and Entrepreneurship students.
-
-Aspiring entrepreneurs.
-
-Small business owners.
-
-Individuals interested in starting a business.
-
-User Needs to Consider
-
-A simple and user-friendly platform.
-
-Easy-to-understand AI-generated recommendations.
-
-Accessible features for beginners.
-
-Practical business suggestions based on available budgets and interests.
-
-Privacy and protection of user information.
-
+- Enter Business Preferences – Users provide their interests, available budget, skills, and preferred business industry.
+- Generate Business Ideas – The AI suggests possible business concepts based on the information provided.
+- Identify Target Markets – The system recommends potential customers for the selected business idea.
+- Generate Marketing Strategies – Users receive suggestions for promoting their products or services.
+- Create a Business Plan – The system generates a basic business plan to help users organize their business ideas.
+- Situations Where the Solution Is Needed
+- When students need business ideas for academic projects or business proposals.
+- When aspiring entrepreneurs want to start a business but do not know where to begin.
+- When small business owners need new marketing strategies.
+- When entrepreneurs want to explore potential products, services, and business opportunities.
+- When users need quick assistance in organizing their business plans.
+Target Users:
+- College and Entrepreneurship students.
+- Aspiring entrepreneurs.
+- Small business owners.
+- Individuals interested in starting a business.
+- User Needs to Consider
+- A simple and user-friendly platform.
+- Easy-to-understand AI-generated recommendations.
+- Accessible features for beginners.
+- Practical business suggestions based on available budgets and interests.
+- Privacy and protection of user information.
 This is how you create code examples:
 ```
 def main():
