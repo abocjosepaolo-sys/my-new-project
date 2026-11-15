@@ -15,28 +15,13 @@ BizGenius AI is an AI-powered business assistant that helps aspiring entrepreneu
 
 BizGenius AI addresses the difficulty aspiring entrepreneurs face when developing business ideas, identifying target markets, and creating effective business plans. This problem is common among students and beginners who have limited business knowledge, experience, or resources. My personal motivation is my interest in entrepreneurship and how businesses operate. I find this topic interesting because AI can make business planning easier, faster, and more accessible, especially for people who want to start their own businesses but do not know where to begin.
 
-This is how you make a list, if you need one:
-Difficulty generating unique and profitable business ideas.
-
-
-
-Lack of knowledge and experience in starting a business.
-
-
-
-Difficulty identifying the right target market and potential customers.
-
-
-
-Challenges in creating effective marketing strategies.
-
-
-
-Limited resources and guidance for aspiring entrepreneurs.
-
-
-
-Time-consuming process of developing a basic business plan.
+Problems that BizGenius AI aims to solve:
+- Difficulty generating unique and profitable business ideas.
+- Lack of knowledge and experience in starting a business.
+- Difficulty identifying the right target market and potential customers.
+- Challenges in creating effective marketing strategies.
+- Limited resources and guidance for aspiring entrepreneurs.
+- Time-consuming process of developing a basic business plan.
 
 
 ## How is it used?
