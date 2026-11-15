@@ -56,20 +56,25 @@ Target Users:
 - Privacy and protection of user information.
 
 ```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
+## Project Screenshots
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
+### Homepage
+<img src="images/homepage.png" width="700">
 
-   # write your solution here
+### AI Business Idea Generator
+<img src="images/idea-generator.png" width="700">
 
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
+### Business Name Generator
+<img src="images/business-name.png" width="700">
 
-main()
+### Target Market Analysis
+<img src="images/target-market.png" width="700">
+
+### Marketing Strategy Generator
+<img src="images/marketing-strategy.png" width="700">
+
+### Business Plan Generator
+<img src="images/business-plan.png" width="700">
 ```
 
 
