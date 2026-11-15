@@ -55,47 +55,49 @@ Target Users:
 - Practical business suggestions based on available budgets and interests.
 - Privacy and protection of user information.
 
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
-
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+BizGenius AI is currently presented as a project concept. No actual dataset has been collected or integrated into a working system at this stage. The proposed platform may use information provided by users, such as their interests, skills, available budget, and preferred business industry.
 
-| Syntax      | Description |
+If developed, the system could also use reliable publicly available business information and market data to support its recommendations. Any external data used should be properly checked and acknowledged.
+
+Proposed AI Methods and Technologies
+
+| AI Method or Technology      | Purpose |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Natural Language Processing (NLP)| To understand users' questions, interests, and business preferences.|
+| Generative AI| To generate business ideas, business names, marketing strategies, and basic business plans.|
+| Recommendation System   | To help organize and interpret available business and market information.|
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+BizGenius AI aims to assist aspiring entrepreneurs, but it also has limitations and ethical considerations.
+
+- Accuracy of Information – AI-generated business ideas and recommendations may contain inaccurate, incomplete, or outdated information.
+- Market Uncertainty – The system cannot guarantee that a suggested business idea will become profitable or succeed in the market.
+- Dependence on AI – Users may rely too much on AI recommendations instead of conducting their own research and making informed decisions.
+- Data Privacy – Personal information and business preferences entered by users must be handled securely and responsibly.
+- Bias in Recommendations – AI-generated suggestions may reflect biases or limitations in the information used to develop the system.
+- Limited Business Understanding – The system may not fully understand local market conditions, customer behavior, competition, and other factors that affect business success.
+- BizGenius AI should be treated as a planning assistant, not a replacement for professional business advice, actual market research, or the user's own decision-making.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+BizGenius AI could be improved by adding more features to provide better assistance to aspiring entrepreneurs and small business owners.
+Possible future improvements include:
+
+- Real-Time Market Trend Analysis – Provide updated information about market trends and customer preferences.
+- Budget and Expense Estimation – Help users estimate their possible startup costs and business expenses.
+- Competitor Analysis – Provide information about possible competitors and their business strategies.
+- Pricing Suggestions – Recommend possible product or service prices based on available market information.
+- Personalized Recommendations – Provide more relevant business suggestions based on each user's interests, skills, and budget.
+- Multilingual Support – Allow users to access the platform in different languages.
+
+To develop these improvements, assistance from AI developers, programmers, business professionals, and market researchers would be helpful. Skills in artificial intelligence, programming, data analysis, and business management would also be important.
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+- Inspired by the goal of making business planning easier and more accessible for aspiring entrepreneurs.
+- Acknowledgment to the Building AI course created by Reaktor Innovations and the University of Helsinki for providing the learning materials and project template.
+- OpenAI and ChatGPT were used as an AI-assisted tool for brainstorming, organizing ideas, and improving the written presentation of this project.
+- Any third-party images, datasets, code, or other materials added to the project should include proper acknowledgment of their original creators and applicable licenses.
