@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# BizGenius AI: An Artificial Intelligence-Powered Business Idea Generator and Planning Assistant for Aspiring Entrepreneurs
 
 Final project for the Building AI course
 
