@@ -32,7 +32,7 @@ BizGenius AI is used by students, aspiring entrepreneurs, and small business own
 
 Process of Using the Solution
 
-Access the Platform – Users open the BizGenius AI website using a computer or mobile device.
+- Access the Platform – Users open the BizGenius AI website using a computer or mobile device.
 
 Enter Business Preferences – Users provide their interests, available budget, skills, and preferred business industry.
 
